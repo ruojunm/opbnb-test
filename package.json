@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "@eth-optimism/contracts-ts": "^0.17.2",
+    "@eth-optimism/core-utils": "^0.13.2",
+    "@eth-optimism/sdk": "^3.3.2",
+    "ethers": "^5.7.0",
+    "viem": "^2.16.1",
+    "web3": "^4.9.0"
+  },
+  "name": "js-code-opbnb",
+  "version": "1.0.0",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "type": "module"
+}
